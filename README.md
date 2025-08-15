@@ -1,1 +1,1 @@
-# HTML, site test made in an hour or so
+# HTML, site test made in 30 min
